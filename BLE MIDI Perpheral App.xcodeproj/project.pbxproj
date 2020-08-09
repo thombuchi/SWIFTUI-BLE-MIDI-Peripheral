@@ -13,6 +13,7 @@
 		E93C052924E05B9000912525 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E93C052824E05B9000912525 /* Assets.xcassets */; };
 		E93C052C24E05B9000912525 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E93C052B24E05B9000912525 /* Preview Assets.xcassets */; };
 		E93C052F24E05B9000912525 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E93C052D24E05B9000912525 /* LaunchScreen.storyboard */; };
+		E93C053724E05BA600912525 /* BLE MIDI Peripheral.swift in Sources */ = {isa = PBXBuildFile; fileRef = E93C053624E05BA600912525 /* BLE MIDI Peripheral.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E93C052B24E05B9000912525 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E93C052E24E05B9000912525 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E93C053024E05B9000912525 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E93C053624E05BA600912525 /* BLE MIDI Peripheral.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BLE MIDI Peripheral.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				E93C052D24E05B9000912525 /* LaunchScreen.storyboard */,
 				E93C053024E05B9000912525 /* Info.plist */,
 				E93C052A24E05B9000912525 /* Preview Content */,
+				E93C053624E05BA600912525 /* BLE MIDI Peripheral.swift */,
 			);
 			path = "BLE MIDI Perpheral App";
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			files = (
 				E93C052324E05B8E00912525 /* AppDelegate.swift in Sources */,
 				E93C052524E05B8E00912525 /* SceneDelegate.swift in Sources */,
+				E93C053724E05BA600912525 /* BLE MIDI Peripheral.swift in Sources */,
 				E93C052724E05B8E00912525 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
